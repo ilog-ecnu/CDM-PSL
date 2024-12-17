@@ -28,7 +28,7 @@ If you find our work helpful, please cite the following BibTeX entry:
 @article{li2024expensive,
   title={Expensive Multi-Objective Bayesian Optimization Based on Diffusion Models},
   author={Li, Bingdong and Di, Zixiang and Lu, Yongfan and Qian, Hong and Wang, Feng and Yang, Peng and Tang, Ke and Zhou, Aimin},
-  journal={arXiv preprint arXiv:2405.08674},
-  year={2024}
+  journal={accepted by AAAI},
+  year={2025}
 }
 ```
